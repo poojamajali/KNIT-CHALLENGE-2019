@@ -1,0 +1,8 @@
+fabric
+mobile
+3g-speed
+mobile
+domain
+domain
+tv
+mobile
